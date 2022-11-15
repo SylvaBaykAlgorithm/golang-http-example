@@ -1,6 +1,6 @@
 package mocks
 
-import "../models"
+import "example.com/pkg/models"
 
 var Books = []models.Book{
 	{
